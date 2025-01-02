@@ -1,0 +1,10 @@
+#This file includes development tools.
+
+# Development Tools
+
+ipython>=8.15.0  # Enhanced interactive Python shell
+pytest>=7.4.2  # Testing framework
+pytest-django>=4.5.2  # Django plugin for pytest
+black>=23.9.1  # Code formatter
+flake8>=6.1.0  # Linter
+django-debug-toolbar>=5.0.0a0  # Debugging tool for Django

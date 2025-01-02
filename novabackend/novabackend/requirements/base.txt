@@ -1,0 +1,16 @@
+#This file includes core dependencies for the Django project.
+
+# Core Django and DRF
+Django>=5.1.4
+djangorestframework>=3.15.2
+
+# CORS and environment management
+django-cors-headers>= 4.6.0
+django-environ>=0.11.2
+
+# Filtering and JWT authentication
+django-filter>=24.3
+djangorestframework-simplejwt>= 5.3.1
+
+# Utilities
+psycopg2>=2.9.10  # PostgreSQL support
